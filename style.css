@@ -2,6 +2,10 @@ body{
 background-image:url(1st.jpg) ;
 background-size: cover;
 }
+ 
+
+
+
 h1{
 	text-align: center;
 	color: darkgoldenrod;
@@ -34,5 +38,5 @@ img{
  
 img:hover{
 	transform: scale(1.1);
-	transition: 1s;
+	transition: all 1s;
 }
