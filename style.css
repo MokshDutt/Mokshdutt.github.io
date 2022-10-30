@@ -1,0 +1,28 @@
+body{
+background-image:url(1st.jpg) ;
+background-size: cover;
+}
+h1{
+	text-align: center;
+	color: darkgoldenrod;
+}
+
+hr{
+	border-width: 2px;
+	border-color: darkgoldenrod;
+	max-width: 120px;
+	
+}
+
+h1:hover {
+    transition: 1s ease-in-out;
+    color: orangered;
+    transform: scale3d(2.0, 2.0, 2.0);
+    text-transform: uppercase;
+}
+
+h2{
+	color:springgreen;
+	text-align:center ;
+	text-transform: uppercase ;
+}
