@@ -1,0 +1,18 @@
+body{
+	background-image: url(baground.jpg);
+	background-size:cover;
+	text-align: right;
+	color: red;    
+     }
+ h1{
+ 	color:red;
+ 	text-align: center;
+ 	border-style: double blue;
+
+ }
+
+li{
+	text-align:right;
+	list-style: none;
+	backgound-color: yellow;
+}
